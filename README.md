@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  Be The Hero
 </h4>
 
 <p align="center">
@@ -57,5 +57,3 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
