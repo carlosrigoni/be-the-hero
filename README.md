@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
-### 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
+## 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
 As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
 
 ## 🔖 Layout
